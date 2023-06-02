@@ -1,19 +1,16 @@
-# 绚丽的电子表效果
+# electronic-watch
+canvas 绘制的倒计时特效（慕课网练习）
 
- 根据慕课网上的`绚丽的倒计时效果`做出来的案例 
-</br>
- 用canvas实现,主要应用了canvas的基础绘图API  
-</br>
-*核心*：
-* 每个小球渲染到页面的位置规律
-* 小球的物理效果
+## 主要模块
+1. 小球渲染到电子表的位置
+2. 小球的物理下落/反弹效果
 
-*需要注意的地方*：
-* 离开页面后小球会堆砌，故需要判断当前页面的状态
+## 开发小记
+* 页面隐藏后小球会堆砌，需要判断当前页面的状态进行清除
 * 性能考虑，减少运算量，将出界的小球删除
 
+## 预览
 预览地址：https://kuro-p.github.io/Electronic-watch/main.html
-<br/>
 
 ![image](https://github.com/Kuro-P/Electronic-watch/blob/master/img/effect.jpg "效果截图")
 
