@@ -10,8 +10,8 @@ canvas 绘制的倒计时特效（慕课网练习）
 * 性能考虑，减少运算量，将出界的小球删除
 
 ## 预览
-预览地址：https://kuro-p.github.io/Electronic-watch/main.html
+预览地址：https://kuro-p.github.io/electronic-watch/main.html
 
-![image](https://github.com/Kuro-P/Electronic-watch/blob/master/img/effect.jpg "效果截图")
+![image](https://github.com/Kuro-P/electronic-watch/blob/master/img/effect.jpg "效果截图")
 
 
